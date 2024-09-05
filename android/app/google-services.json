@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "100214415027",
+    "project_id": "lateral-goods-433801-a0",
+    "storage_bucket": "lateral-goods-433801-a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100214415027:android:2c390f05f974133f18dac6",
+        "android_client_info": {
+          "package_name": "com.example.test_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfxGKc8AU5ueCKtc7VQgiyM86beW5x0Lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
